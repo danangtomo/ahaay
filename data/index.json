@@ -1,0 +1,279 @@
+[
+    {
+        "section": "Main Course",
+        "section_menus": [
+            {
+                "image": "/images/menus/Nasgor-Sultan.jpg",
+                "title": "Nasi Goreng Sultan",
+                "description": "Our premium Fried Rice healthy food and no MSG add double egg, mix up special seasoningour homemade make it so tasty and delicious",
+                "detail_price": [
+                    {
+                        "title_price": "Chicken",
+                        "price": "25"
+                    },
+                    {
+                        "title_price": "Beef",
+                        "price": "27"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Nasgor-Sultan.jpg",
+                "title": "Pasta Spicy Agli O Lio",
+                "description": "Pasta with garlic butter sauce and spicy Asian herb",
+                "detail_price": [
+                    {
+                        "title_price": "Chicken",
+                        "price": "33"
+                    },
+                    {
+                        "title_price": "Tuna",
+                        "price": "37"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Nasgor-Sultan.jpg",
+                "title": "Ayam Goreng Rempah + Nasi",
+                "description": "Fried Chicken mix herb and spicy chilli add salt fish",
+                "detail_price": [
+                    {
+                        "title_price": "",
+                        "price": "29"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Nasgor-Sultan.jpg",
+                "title": "Ayam Goreng Rempah + Nasi + Sayur Asem",
+                "description": "Fried Chicken mix herb and spicy chilli add salt fish and Indonesian traditional sour soup",
+                "detail_price": [
+                    {
+                        "title_price": "",
+                        "price": "33"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Ahaay-Miso-Ramen.png",
+                "title": "Ahaay Miso Ramen",
+                "description": "Soybean paste-based broth served with Chicken Chashu, Pokcoy, Scallion, Egg, Corn Pile and Nori",
+                "detail_price": [
+                    {
+                        "title_price": "",
+                        "price": "29"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Ahaay-Paitan-Ramen.png",
+                "title": "Ahaay Paitan Ramen",
+                "description": "Creamy and rich Chicken Paitan broth served with Chicken Chashu, Pokcoy, Scallion, Egg, Corn Pile and Nori",
+                "detail_price": [
+                    {
+                        "title_price": "",
+                        "price": "31"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Ahaay-Shoyu-Ramen.png",
+                "title": "Ahaay Shoyu Ramen",
+                "description": "Shoyu-based broth with Chicken Chashu, Bean, Pakcoy, Scallion, Egg, Corn Pile and Nori",
+                "detail_price": [
+                    {
+                        "title_price": "",
+                        "price": "33"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Ahaay-Tan-Ramen.png",
+                "title": "Ahaay Tan Ramen",
+                "description": "Creamy, Silky, Spicy Chickenbased broth with ground Beef, Pokcoy, Scallion, Egg, Corn Pile and Nori",
+                "detail_price": [
+                    {
+                        "title_price": "",
+                        "price": "37"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Starter",
+        "section_menus": [
+            {
+                "image": "/images/menus/Kebab-Sultan-Ahaay.jpg",
+                "title": "Kebab Sultan",
+                "description": "Premium kebab filled salad vegetables, Bombay Onion slice tomatoes ,cheese and mix with our special sauce choice your favorite chicken or beef",
+                "detail_price": [
+                    {
+                        "title_price": "Chicken",
+                        "price": "27"
+                    },
+                    {
+                        "title_price": "Beef",
+                        "price": "29"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Mie-Celaket.jpg",
+                "title": "Mie Celaket",
+                "description": "Premium noodle saute with seasoning and grill chicken mix with 3 kind of cheese",
+                "detail_price": [
+                    {
+                        "title_price": "Chicken",
+                        "price": "29"
+                    },
+                    {
+                        "title_price": "Beef",
+                        "price": "33"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Small Bite",
+        "section_menus": [
+            {
+                "image": "/images/menus/French-Fries.jpg",
+                "title": "French Fries",
+                "description": "",
+                "detail_price": [
+                    {
+                        "title_price": "Biasa",
+                        "price": "15"
+                    },
+                    {
+                        "title_price": "Mozzarella",
+                        "price": "21"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Chicken-Wing.jpg",
+                "title": "Chicken Wings",
+                "description": "Combined with Western and Asian BBQ our sauce special homemade",
+                "detail_price": [
+                    {
+                        "title_price": "",
+                        "price": "25"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Add On",
+        "section_menus": [
+            {
+                "image": "/images/menus/French-Fries.jpg",
+                "title": "Sayur Asem",
+                "description": "",
+                "detail_price": [
+                    {
+                        "title_price": "",
+                        "price": "7"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Chicken-Wing.jpg",
+                "title": "Nasi Putih",
+                "description": "",
+                "detail_price": [
+                    {
+                        "title_price": "",
+                        "price": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Thirsty Blend Me Up",
+        "section_menus": [
+            {
+                "image": "/images/menus/Teh-Sultan.jpg",
+                "title": "Teh Sultan",
+                "description": "Mix with Variant of tea with stones sugar",
+                "detail_price": [
+                    {
+                        "title_price": "R size",
+                        "price": "6"
+                    },
+                    {
+                        "title_price": "L size",
+                        "price": "8"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Teh-Riungan-Poci.jpg",
+                "title": "Teh Riungan",
+                "description": "Tradisional Java served with tea pot",
+                "detail_price": [
+                    {
+                        "title_price": "",
+                        "price": "15"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Kopi-Boejang.jpg",
+                "title": "Kopi Boejang",
+                "description": "Strong Coffee stir up with sugar & cream",
+                "detail_price": [
+                    {
+                        "title_price": "R size",
+                        "price": "19"
+                    },
+                    {
+                        "title_price": "L size",
+                        "price": "23"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Kopi-Boejang.jpg",
+                "title": "Black Coffee",
+                "description": "",
+                "detail_price": [
+                    {
+                        "title_price": "",
+                        "price": "15"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Kremkop.jpg",
+                "title": "KreamKop",
+                "description": "Splash of black coffee blend it sugar with  cream",
+                "detail_price": [
+                    {
+                        "title_price": "R size",
+                        "price": "19"
+                    },
+                    {
+                        "title_price": "L size",
+                        "price": "23"
+                    }
+                ]
+            },
+            {
+                "image": "/images/menus/Kremkop.jpg",
+                "title": "Air Mineral",
+                "description": "",
+                "detail_price": [
+                    {
+                        "title_price": "",
+                        "price": "5"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -146,7 +146,7 @@ export default function Nav() {
                     <Box w="100%">
                       <Link
                         as={NextLink}
-                        href="/"
+                        href="/gallery"
                         className="allerta"
                         color={
                           router.asPath === "/gallery" ? "#e04d10" : "white"
